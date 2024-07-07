@@ -1,0 +1,5 @@
+## model_basename
+llama-2-7b-chat.ggmlv3.q4_0.bin
+
+## Where to download?
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML

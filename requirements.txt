@@ -1,0 +1,5 @@
+ctransformers==0.2.5 # To run quantised Llama on CPU
+sentence-transformers==2.2.2 # Req for "Embeddings" in Pipeline diagram
+pinecone-client # Used as VectorDB System hosted online (for KB)
+langchain==0.0.225 # Interaction of different Components and Llama
+flask # for frontend
